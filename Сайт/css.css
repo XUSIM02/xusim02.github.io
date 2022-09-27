@@ -1,0 +1,49 @@
+body {
+  background: #eaeaae;
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 30px;
+}
+
+h1 {
+  color: #000000;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #000000;
+}
+p {
+  font: italic;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(128, 24, 24);
+}
+
+a:hover {
+  color: rgb(192, 53, 53);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 532px;
+  height: 365px;
+}
+
+.img2 {
+	width: 819px;
+    height: 137px;
+}
+
+.pictureText {
+  text-align: center;
+}
+
+.nav > a {
+  border-right: rgb(187, 55, 38) solid 1px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
